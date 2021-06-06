@@ -26,8 +26,6 @@
 
 [<img align="left" alt="Matplotlib" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png"/>](https://numpy.org/)
 
-[<img align="left" alt="Scipy" height="28px" src="https://img2.gratispng.com/20180515/wlq/kisspng-scipy-numpy-python-scikit-learn-pip-5afac9ed390699.7554647915263851332336.jpg"/>](https://scipy.org/)
-
 [<img align="left" alt="GitHub" height="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>](https://github.com)
 
 <img align="left" alt="Linux" height="28px" src="https://iconvulture.com/wp-content/uploads/2017/12/linux-logo.svg"/>
