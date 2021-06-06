@@ -1,4 +1,4 @@
-### Luan Crozatti - [Researcher]
+### Luan Crozatti - Researcher :wave:
 
 ## I am an electrical engineer student working on embedded solutions to biosensor technology.
 
