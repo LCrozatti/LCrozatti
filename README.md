@@ -22,7 +22,11 @@
 
 [<img align="left" alt="Numpy" height="28px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg"/>](https://numpy.org/)
 
+[<img align="left" alt="Pandas" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png"/>](https://pandas.pydata.org/)
+
 [<img align="left" alt="Matplotlib" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png"/>](https://numpy.org/)
+
+[<img align="left" alt="Scipy" height="28px" src="https://img2.gratispng.com/20180515/wlq/kisspng-scipy-numpy-python-scikit-learn-pip-5afac9ed390699.7554647915263851332336.jpg"/>](https://scipy.org/)
 
 [<img align="left" alt="GitHub" height="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>](https://github.com)
 
