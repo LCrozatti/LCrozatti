@@ -16,13 +16,13 @@
 
 [<img align="left" alt="C" height="28px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>]()
 
-[<img align="left" alt="STM32Cube" height="28px" src="https://tech-skill.nl/wp-content/uploads/2020/11/stm32cube-logo.png"/>](https://www.st.com/content/st_com/en.html)
-
 [<img align="left" alt="Python" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>](https://www.python.org/)
 
 [<img align="left" alt="Jupyter" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"/>](https://jupyter.org/)
 
 [<img align="left" alt="Numpy" height="28px" src="https://cdn.worldvectorlogo.com/logos/numpy.svg"/>](https://numpy.org/)
+
+[<img align="left" alt="Matplotlib" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png"/>](https://numpy.org/)
 
 [<img align="left" alt="GitHub" height="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>](https://github.com)
 
