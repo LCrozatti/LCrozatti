@@ -1,6 +1,6 @@
 ### Luan Crozatti - Researcher :wave:
 
-## I am an electrical engineer student working on embedded solutions to biosensor technology.
+## I am an electrical engineering student working on embedded solutions to biosensor technology.
 
 ### Connect with me:
 
